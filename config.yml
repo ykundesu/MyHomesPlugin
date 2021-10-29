@@ -1,0 +1,22 @@
+#Home point has been set Message.
+#ホームを設定しました
+homesetmsg : "§6Home point has been set."
+#Home point is not set Message.
+#ホームが設定されてません
+nohomemsg : "§6Home point is not set."
+#I teleported to the home point Command.
+#ホームにテレポートしました
+hometpmsg : "§6I teleported to the home point."
+#Specify the name of the home Message.
+#削除するホームの名前を指定してください
+delhomenoname : "§6Specify the name of the home"
+#Home not found Message.
+#指定したホームが存在しません
+delhomenothome : "§6Home not found."
+#Home erased Message.
+#ホームを削除しました
+delhomeok : "§6Home erased."
+#ja or en
+#ja:Japanise en:English
+#ja:日本語 en:英語
+helplang : "en"

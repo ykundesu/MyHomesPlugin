@@ -1,0 +1,18 @@
+name: MyHomesPlugin
+version: '1.0.0'
+main: jp.yoppykun.myhomesplugin.MyHomesPlugin
+api-version: 1.17
+authors: [ Yoppykun ]
+description: SetHomePlugin!Minecraft Spigot Plugin!
+website: https://github.com/ykundesu/MyHomesPlugin
+commands:
+  sethome:
+    description: Home Set Command
+  home:
+    description: Home Teleport Command
+  delhome:
+    description: Home Delates Command
+  homelist:
+    description: Home Lists Command
+  homehelp:
+    description: Home Help Command
